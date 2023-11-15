@@ -1,0 +1,95 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Bureautique Diagramme
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Exécutable Windows 32 bits
+    internal_properties : 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
+    configuration_id : 14309581928719396403
+    type : 1
+    generation_name : WD Bureautique Diagramme.exe
+    version :
+     major_version : 1
+     generation_version : 1
+     internal_generation_version : 14
+    icon_filename : .\description.ico
+    language : 1
+ elements :
+  identifier : 0x4a16f09000b1abd7
+  elements :
+   -
+     name : TEST_DIAG
+     identifier : 0x4aec4c3800ca621e
+     internal_properties : CAAAAAgAAABt6UVZZtNbBNFD2f1OA+i+uerUBCsVLYZLquApqVdH0S+tl8sM9NRAgqYQ6KhYIJB4+A==
+     physical_name : .\TEST_DIAG.wxt
+     type : 17
+   -
+     name : FEN_DIAG
+     identifier : 0x4a16f99f01280f0b
+     internal_properties : CAAAAAgAAAB23F5CYd5WWWSgaZc8lloMfG1702AwCpSixtRtW989uwXNIv0qn/A5Rfnj3aVbJ5lj4w==
+     physical_name : .\FEN_DIAG.wdw
+     type : 2
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components :
+   -
+     physical_name : .\WD Bureautique\WD Bureautique.wci
+ report_and_queries_enabled : false
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wd_style_sheet : .\WD Bureautique Traitement de texte.sty
+ wb_style_sheet : .\WD Bureautique Traitement de texte.wws
+ code_elements :
+  internal_properties : CAAAAAgAAADaXFlKYUlgO6bjL0vHkwMddx4v8pdL0gPStF4Ij6yK5SaxZXyXGXnUEO2vTxKSbxoRBqt6gMgHL2dJMSzFcawP6wPlng==
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAACGT2feNcaWD2lk3yxbUvhpZiwpI7/2sYLY7mQJL1YYO7R+O9jUgqxAcfHBe4wEJunLdLBF1h+qkjL1v3eF+szt8G7EVxtRRWM7LVRmW2zNhmwOdF0UomBdDamA+fPMkf7ODXmFaOZa9+nihBFtaUUMLRrLvKu0slIXx0oeJREYWP3617C1wzzVFg1lUJsrEVPC
+     code : |1+
+      // Extension gérée par le champ Éditeur de diagrammes
+      Constant
+      	ED_EXTENSION_DIAG = "wddiag"
+      fin
+      
+      // Déclare au composant Bureautique l'extension gérée
+      // Le composant gère lui-même l'association depuis la ligne de commande (/shellassoc, /shellunassoc)
+      DéclareExtensions(ED_EXTENSION_DIAG, "Fichiers wddiag" )
+      
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Exécutable Windows 32 bits
+     identifier : 0x4a16f09000b2abe7
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
